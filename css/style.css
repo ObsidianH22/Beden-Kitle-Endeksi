@@ -1,0 +1,15 @@
+* {
+    background-color: #f6ffa5;
+}
+
+
+div>h1 {
+text-align: center;
+background-color:green;
+color: white;
+}
+
+div>p {
+    text-align: center;
+    font-size: 1em;
+}
